@@ -20,7 +20,6 @@ public class Zoo<T> {
             animals.remove(animal);
             return animal;
         }
-
         return null;
     }
 }
